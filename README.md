@@ -22,9 +22,9 @@
 
 ### Proje Raporları
 - 📄 **Analiz ve Tasarım Raporu**  
-  [222132022 - Analiz Tasarım Raporu.pdf](raporlar/222132022%20-%20Analiz%20Tasarim%20Raporu.pdf)
+  [222132022 - Analiz Tasarım Raporu.pdf](raporlar%2F222132022%20-%20Analiz%20Tasar%C4%B1m%20Raporu.pdf)
 - 📄 **Gerçekleştirim Raporu**  
-  [222132022 - Gerçekleştirim Raporu.pdf](raporlar/222132022%20-%20Gerceklestirim%20Raporu.pdf)
+  [222132022 - Gerçekleştirim Raporu.pdf](raporlar%2F222132022%20-%20Ger%C3%A7ekle%C5%9Ftirim%20Raporu.pdf)
 
 ### Derlenmiş Uygulama
 - 📱 **Android - APK (Release)**  
